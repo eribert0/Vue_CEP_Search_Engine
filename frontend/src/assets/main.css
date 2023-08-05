@@ -1,0 +1,10 @@
+body{
+  background-color: rgb(49, 43, 43);
+  color: whitesmoke;
+}
+
+#app {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
